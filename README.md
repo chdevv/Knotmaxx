@@ -1,6 +1,6 @@
 ### Ola! Eu sou Knotmaxx 👋
 ***
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knotmaxx&show_icons=true&theme=tokyonight)
+![Knotmaxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knotmaxx&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que utilizo  💻
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
