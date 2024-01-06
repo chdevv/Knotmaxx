@@ -1,6 +1,6 @@
 ### Ola! me chamo Carlos, sou dev full-stack, bem vindo ao meu perfil 👋.
 ***
-![Knotmaxx's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Knotmaxx&show_icons=true&theme=radical&locale=pt-br)
+![chdevv GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=chdevv&show_icons=true&theme=radical&locale=pt-br)
 
 ## Skills  💻
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
